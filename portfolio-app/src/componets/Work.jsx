@@ -50,7 +50,7 @@ function Work() {
                                                 Portfolio 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='/'>
+                            <a href='https://github.com/RenayB/Portfolio-2022'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 text-[#664229] bg-[#ffffff] font-bold text-lg'>Code</button>
                             </a>
                         </div>
