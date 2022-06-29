@@ -22,7 +22,7 @@ function Work() {
                                                 React-Form 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://github.com/RenayB/React-Form'>
+                            <a href='https://github.com/RenayB/React-Form' target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 text-[#664229] bg-[#ffffff] font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -36,7 +36,7 @@ function Work() {
                                                 Sign In Auth App 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://github.com/RenayB/Firebase-Login-Page'>
+                            <a href='https://github.com/RenayB/Firebase-Login-Page' target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 text-[#664229] bg-[#ffffff] font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -50,7 +50,7 @@ function Work() {
                                                 Portfolio 
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href='https://github.com/RenayB/Portfolio-2022'>
+                            <a href='https://github.com/RenayB/Portfolio-2022' target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 text-[#664229] bg-[#ffffff] font-bold text-lg'>Code</button>
                             </a>
                         </div>
