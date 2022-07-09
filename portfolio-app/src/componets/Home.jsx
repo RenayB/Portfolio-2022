@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-scroll/modules';
+  import { Link } from 'react-scroll/modules';
 
 const Home = () => {
   return (
