@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import {FaBars, FaTimes, FaGithub,FaLinkedin} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from './renaybrown.github.io/Portfolio-2022/portfolio-app/src/assets/R.png';
+import Logo from './R.png';
 import { Link } from 'react-scroll/modules';
 
 const Navbar = () => {
