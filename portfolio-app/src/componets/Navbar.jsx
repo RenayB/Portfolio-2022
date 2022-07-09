@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import {FaBars, FaTimes, FaGithub,FaLinkedin} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from '../assets/R.png';
+import Logo from './Portfolio-2022/assets/R.png';
 import { Link } from 'react-scroll/modules';
 
 const Navbar = () => {
